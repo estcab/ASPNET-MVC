@@ -1,0 +1,5 @@
+C:\Documents and Settings\esteban\My Documents\GitHub\ASPNET-MVC\movie-app-tut\movie-app-tut\bin\movie-app-tut.dll
+C:\Documents and Settings\esteban\My Documents\GitHub\ASPNET-MVC\movie-app-tut\movie-app-tut\bin\movie-app-tut.pdb
+C:\Documents and Settings\esteban\My Documents\GitHub\ASPNET-MVC\movie-app-tut\movie-app-tut\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\esteban\My Documents\GitHub\ASPNET-MVC\movie-app-tut\movie-app-tut\obj\Debug\movie-app-tut.dll
+C:\Documents and Settings\esteban\My Documents\GitHub\ASPNET-MVC\movie-app-tut\movie-app-tut\obj\Debug\movie-app-tut.pdb
